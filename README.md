@@ -1,4 +1,4 @@
-# Frontend Mentor - Social links profile solution
+gt# Frontend Mentor - Social links profile solution
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -28,13 +28,7 @@ Users should be able to:
 
 ### What I learned
 
-i learnt about the positioning of elements on the webpage and i must admit working with the width and max-width property was was much fun compare to previous challanges which was an absolute ton in the flesh.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+I learnt about the positioning of elements on the webpage and i must admit working with the width and max-width property was much fun compare to previous challanges which was just a pain in the neck.
 
 ```css
 .proud-of-this-css {
