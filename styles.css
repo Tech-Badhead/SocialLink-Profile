@@ -57,12 +57,12 @@ header p {
   color: hsl(0, 0%, 70%);
 }
 
-.nav-links {
+.nav-links a {
   display: block;
   width: 100%;
 }
 
-.nav-links li {
+.nav-links a {
   background-color: hsl(0, 0%, 12%);
   margin: 0.6rem 0;
   padding: 0.5rem;
@@ -70,7 +70,7 @@ header p {
   cursor: pointer;
 }
 
-.nav-links li:hover {
+.nav-links a:hover {
   border: 1px solid hsl(75, 94%, 57%);
   background: transparent;
   transition: all 0.3s ease-in;
