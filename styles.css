@@ -25,11 +25,9 @@ img {
 }
 
 .container-bg {
-  max-width: 1440px;
   background-color: #000;
   color: #fff;
-  margin: 3rem;
-  padding: 5rem;
+  min-height: 100vh;
 }
 
 #container-sm {
